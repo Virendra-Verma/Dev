@@ -31,7 +31,7 @@ const Home = () => {
             <p className=' icon' ><i class="fa-solid fa-paragraph mx-2"></i>Forum Shop</p>
             <p className=' icon' ><i class="fa-solid fa-heart mx-2"></i>Sponsers</p>
             <p className=' icon' ><i class="fa-solid fa-clipboard mx-2"></i>About</p>
-            <p className=' icon' ><i class="fa-solid fa-address-book mx-2"></i>Contact</p>
+            <p className=' icon' ><i class="fa-solid fa-address-book mx-2"></i>Contact </p>
             <p className=' icon' ><i class="fa-solid fa-book-open mx-2"></i>Guide</p>
             <p className=' icon fw-bold'>Others</p>
             <p className=' icon' ><i class="fa-solid fa-thumbs-up mx-2" style={{color:'yellow'}}></i>Code of Contact</p>
